@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Explora Ciudades</title>
+    <link>https://www.exploraciudades.com</link>
+    <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Jan 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>De tapas por La Latina: Guía de Madrid</title>
+      <link>https://www.exploraciudades.com/tapas-madrid</link>
+      <guid>https://www.exploraciudades.com/tapas-madrid</guid>
+      <description>Recorremos la Cava Baja y Alta probando los mejores pinchos de tortilla y bocadillos de calamares.</description>
+      <pubDate>Mon, 19 Jan 2026 11:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Secretos de Camden Town en Londres</title>
+      <link>https://www.exploraciudades.com/secretos-camden</link>
+      <guid>https://www.exploraciudades.com/secretos-camden</guid>
+      <description>Más allá del mercado principal: tiendas vintage ocultas y la estatua de Amy Winehouse.</description>
+      <pubDate>Sun, 18 Jan 2026 09:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Berlín en bicicleta: Recorrido por el Muro</title>
+      <link>https://www.exploraciudades.com/berlin-bicicleta</link>
+      <guid>https://www.exploraciudades.com/berlin-bicicleta</guid>
+      <description>Una ruta histórica sobre dos ruedas visitando el East Side Gallery y el Checkpoint Charlie.</description>
+      <pubDate>Sat, 17 Jan 2026 14:15:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Noche de librerías y teatros en Buenos Aires</title>
+      <link>https://www.exploraciudades.com/cultura-buenos-aires</link>
+      <guid>https://www.exploraciudades.com/cultura-buenos-aires</guid>
+      <description>Visitamos el Ateneo Grand Splendid y disfrutamos de la vida nocturna en la Avenida Corrientes.</description>
+      <pubDate>Fri, 16 Jan 2026 19:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>

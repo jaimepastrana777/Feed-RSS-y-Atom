@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Explora Ciudades</title>
+  <link href="https://www.exploraciudades.com"/>
+  <link href="https://www.exploraciudades.com/feed.atom" rel="self"/>
+  <updated>2026-01-19T12:00:00Z</updated>
+  <id>https://www.exploraciudades.com/</id>
+  <subtitle>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</subtitle>
+
+  <entry>
+    <title>De tapas por La Latina: Guía de Madrid</title>
+    <link href="https://www.exploraciudades.com/tapas-madrid"/>
+    <id>https://www.exploraciudades.com/tapas-madrid</id>
+    <updated>2026-01-19T11:00:00Z</updated>
+    <summary>Recorremos la Cava Baja y Alta probando los mejores pinchos de tortilla y bocadillos de calamares.</summary>
+    <author>
+      <name>Explora Ciudades Team</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Secretos de Camden Town en Londres</title>
+    <link href="https://www.exploraciudades.com/secretos-camden"/>
+    <id>https://www.exploraciudades.com/secretos-camden</id>
+    <updated>2026-01-18T09:30:00Z</updated>
+    <summary>Más allá del mercado principal: tiendas vintage ocultas y la estatua de Amy Winehouse.</summary>
+    <author>
+      <name>Explora Ciudades Team</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Berlín en bicicleta: Recorrido por el Muro</title>
+    <link href="https://www.exploraciudades.com/berlin-bicicleta"/>
+    <id>https://www.exploraciudades.com/berlin-bicicleta</id>
+    <updated>2026-01-17T14:15:00Z</updated>
+    <summary>Una ruta histórica sobre dos ruedas visitando el East Side Gallery y el Checkpoint Charlie.</summary>
+    <author>
+      <name>Explora Ciudades Team</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Noche de librerías y teatros en Buenos Aires</title>
+    <link href="https://www.exploraciudades.com/cultura-buenos-aires"/>
+    <id>https://www.exploraciudades.com/cultura-buenos-aires</id>
+    <updated>2026-01-16T19:00:00Z</updated>
+    <summary>Visitamos el Ateneo Grand Splendid y disfrutamos de la vida nocturna en la Avenida Corrientes.</summary>
+    <author>
+      <name>Explora Ciudades Team</name>
+    </author>
+  </entry>
+
+</feed>
