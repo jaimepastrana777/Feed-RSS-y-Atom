@@ -15,7 +15,7 @@ Ambos archivos contienen las siguientes 4 entradas actualizadas:
 * Berlín: Recorrido en bicicleta por el Muro.
 * Buenos Aires: Noche de librerías y teatros.
 
----
+
 ## Validación W3C
 Ambos archivos han sido sometidos al [W3C Feed Validation Service](https://validator.w3.org/feed/) para asegurar que la estructura XML, las etiquetas y los formatos de fecha (RFC-822 para RSS y ISO-8601 para Atom) son correctos.
 
