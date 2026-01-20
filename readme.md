@@ -37,5 +37,6 @@ Estado: **Valid** ✅
 ---
 
 ## Datos del Alumno
+**Nombre Alumno:** Jaime Pastrana Rodríguez
 * **Asignatura:** Lenguajes de Marcas.
 * **Enlace al repositorio:** [https://github.com/jaimepastrana777/Feed-RSS-y-Atom.git]
