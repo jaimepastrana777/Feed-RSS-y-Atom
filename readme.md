@@ -25,15 +25,17 @@ A continuación se adjuntan las capturas de pantalla que certifican la validaci�
 ### 1. Validación del archivo RSS (`viajes.rss`)
 Estado: **Valid** ✅
 
-![Captura de validación RSS](AQUI_PEGA_TU_CAPTURA_RSS.png)
+![Captura de validación RSS](<img width="1421" height="556" alt="image" src="https://github.com/user-attachments/assets/712d432b-8f27-485e-ab3c-9d3fd224be3f" />
+.png)
 
 ### 2. Validación del archivo Atom (`viajes.atom`)
 Estado: **Valid** ✅
 
-![Captura de validación Atom](AQUI_PEGA_TU_CAPTURA_ATOM.png)
+![Captura de validación Atom](<img width="1414" height="552" alt="image" src="https://github.com/user-attachments/assets/408b9ba6-5a3f-4d3e-8b1e-70f9bf458aa1" />
+.png)
 
 ---
 
 ## Datos del Alumno
-* **Asignatura:** Lenguajes de Marcas / Desarrollo Web
-* **Enlace al repositorio:** [Inserte aquí el enlace si es necesario]
+* **Asignatura:** Lenguajes de Marcas.
+* **Enlace al repositorio:** [https://github.com/jaimepastrana777/Feed-RSS-y-Atom.git]
