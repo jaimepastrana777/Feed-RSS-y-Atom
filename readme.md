@@ -16,9 +16,7 @@ Ambos archivos contienen las siguientes 4 entradas actualizadas:
 * Buenos Aires: Noche de librerías y teatros.
 
 ---
-
 ## Validación W3C
-
 Ambos archivos han sido sometidos al [W3C Feed Validation Service](https://validator.w3.org/feed/) para asegurar que la estructura XML, las etiquetas y los formatos de fecha (RFC-822 para RSS y ISO-8601 para Atom) son correctos.
 
 A continuación se adjuntan las capturas de pantalla que certifican la validación:
@@ -27,13 +25,13 @@ A continuación se adjuntan las capturas de pantalla que certifican la validaci�
 Estado: **Valido** ✅
 
 (<img width="1421" height="556" alt="image" src="https://github.com/user-attachments/assets/712d432b-8f27-485e-ab3c-9d3fd224be3f" />
-.png)
+
 
 ### 2. Validación del archivo Atom (`viajes.atom`)
 Estado: **Valido** ✅
 
 (<img width="1414" height="552" alt="image" src="https://github.com/user-attachments/assets/408b9ba6-5a3f-4d3e-8b1e-70f9bf458aa1" />
-.png)
+
 
 ---
 
