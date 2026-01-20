@@ -1,6 +1,6 @@
 # Feed RSS y Atom - Blog "Explora Ciudades"
 
-Este proyecto consiste en la creación y sindicación de contenidos para el blog ficticio de viajes **"Explora Ciudades"**. Se han generado dos canales de distribución de noticias siguiendo los estándares técnicos para garantizar su compatibilidad con lectores de noticias.
+Este proyecto consiste en la creación contenidos para el blog ficticio de viajes **"Explora Ciudades"**. Se han generado dos canales de distribución de noticias siguiendo los estándares técnicos para garantizar su compatibilidad con lectores de noticias.
 
 ## Archivos del Repositorio
 
